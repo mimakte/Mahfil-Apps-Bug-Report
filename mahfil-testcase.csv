@@ -1,0 +1,5 @@
+Bug ID,       Title , Steps to reproduce                Expected Result,Expected Result,Actual Result,Priority,Reported Date,Test Environment ,
+1,Autoplay button off,1. Click on ''Video''             2.Click on ''Download''button                               3. Click on ''Autoplay'' button,The video should not be autoplayed,The video should be autoplayed,Medium,13/3/2024,Mobile app platform: Android  (vivo1908_19- Android version 8.1.0 )    ,
+2,Inappropriate video,1. Click on ''Home '',Inappropriate video should not be on the playlist,Inappropriate videos show the playlist,High,13/3/2024, Mobile app platform: Android  (vivo1908_19- Android version 8.1.0 )    ,
+3,Download the video,1.Click on ''Video''                    2.Click on ''Download'' button,The video should be downloaded successfully,The video is not downloaded successfully,High,13/3/2024,Mobile app platform: Android  (vivo1908_19- Android version 8.1.0 )    ,
+4,Salad reminder(Notification),Click on ''Notification'' button,Users should be reminded of the notification,Notification is not show,High,13/3/2024,   Mobile app platform: Android  (vivo1908_19- Android version 8.1.0 )    ,
